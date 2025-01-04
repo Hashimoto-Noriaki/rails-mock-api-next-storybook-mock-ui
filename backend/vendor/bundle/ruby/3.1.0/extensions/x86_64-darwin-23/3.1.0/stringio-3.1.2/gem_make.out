@@ -1,0 +1,16 @@
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.2/ext/stringio
+/Users/hashimotonoriaki/.rbenv/versions/3.1.3/bin/ruby -I /Users/hashimotonoriaki/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250105-25730-k1ldbk sitelibdir\=./.gem.20250105-25730-k1ldbk clean
+
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250105-25730-k1ldbk sitelibdir\=./.gem.20250105-25730-k1ldbk
+compiling stringio.c
+linking shared-object stringio.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250105-25730-k1ldbk sitelibdir\=./.gem.20250105-25730-k1ldbk install
+/usr/local/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20250105-25730-k1ldbk

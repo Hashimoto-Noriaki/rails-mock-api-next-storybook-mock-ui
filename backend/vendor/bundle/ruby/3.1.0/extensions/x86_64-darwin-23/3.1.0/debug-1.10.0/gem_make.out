@@ -1,0 +1,17 @@
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/debug-1.10.0/ext/debug
+/Users/hashimotonoriaki/.rbenv/versions/3.1.3/bin/ruby -I /Users/hashimotonoriaki/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250105-25730-fl11mm sitelibdir\=./.gem.20250105-25730-fl11mm clean
+
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250105-25730-fl11mm sitelibdir\=./.gem.20250105-25730-fl11mm
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/hashimotonoriaki/git/rails-next-mock/backend/vendor/bundle/ruby/3.1.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250105-25730-fl11mm sitelibdir\=./.gem.20250105-25730-fl11mm install
+/usr/local/bin/ginstall -c -m 0755 debug.bundle ./.gem.20250105-25730-fl11mm/debug
